@@ -23,7 +23,7 @@ I'm a dedicated Data Analyst transitioning into the data industry with a passion
 ### Explore my projects
 | Sr. | Domain| No.|
 |----------|----------|----------|
-| 01 | Data Analysis (Python, SQL, PowerBi)| 4 |
+| 01 | Data Analysis (Python, SQL, PowerBi)| 3 |
 | 02 | Machine Learning| 2 |
 | 03 | Computer Vision| .. |
 | 04 | OCR / Backend Developement| 1 |
