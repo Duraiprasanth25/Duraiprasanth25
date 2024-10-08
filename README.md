@@ -1,9 +1,8 @@
 # Welcome to my GitHub Account 👋
 
-I am a dedicated Data Scientist and Data Analyst, seeking to apply advanced analytical, data-driven, and machine learning skills in an innovative environment. I am committed to extracting actionable insights from complex datasets to drive informed decision-making and contribute to the advancement of data-driven strategies. Additionally, I am diving deeper into Deep Learning, Generative AI, and ML-Ops 🌊.
+I'm a dedicated Data Analyst transitioning into the data industry with a passion for transforming raw data into clear and actionable insights. With a sharp attention to detail and a natural ability to quickly learn new skills, I leverage my expertise in tools such as Excel, Power BI, SQL and Python to tackle your complex data challenges.
 
-🔭 I’m currently upskilling myself and looking for opportunities as Data Analyst / Data Scientist / ML Engineer.
-
+🔭 I’m currently upskilling myself and looking for opportunities as Data Analyst / Data Scientist.
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/duraiprasanth25/)
 
 ⚡ Visit my PortFolio Website
@@ -24,7 +23,7 @@ I am a dedicated Data Scientist and Data Analyst, seeking to apply advanced anal
 | Sr. | Domain| No.|
 |----------|----------|----------|
 | 01 | Data Analysis (Python, SQL, PowerBi)| 4 |
-| 02 | Machine Learning| 4 |
+| 02 | Machine Learning| 2 |
 | 03 | Computer Vision| .. |
 | 04 | OCR / Backend Developement| 1 |
 | 05 | Natural Language Processing| .. |
