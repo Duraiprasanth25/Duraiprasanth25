@@ -3,6 +3,7 @@
 I'm a dedicated Data Analyst transitioning into the data industry with a passion for transforming raw data into clear and actionable insights. With a sharp attention to detail and a natural ability to quickly learn new skills, I leverage my expertise in tools such as Excel, Power BI, SQL and Python to tackle your complex data challenges.
 
 🔭 I’m currently upskilling myself and looking for opportunities as Data Analyst / Data Scientist.
+
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/duraiprasanth25/)
 
 ⚡ Visit my PortFolio Website
