@@ -24,7 +24,7 @@ I'm a dedicated Data Analyst transitioning into the data industry with a passion
 | Sr. | Domain| No.|
 |----------|----------|----------|
 | 01 | [Data Analysis (Python, SQL, PowerBi)](https://github.com/Duraiprasanth25/bi-dashboards)| 3 |
-| 02 | Machine Learning| 2 |
+| 02 | Machine Learning(https://github.com/Duraiprasanth25/Machine_Learning_Projects)| 2 |
 | 03 | Computer Vision| .. |
 | 04 | OCR / Backend Developement| 1 |
 | 05 | Natural Language Processing| .. |
