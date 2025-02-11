@@ -23,7 +23,8 @@ Data Analyst transitioning into the data industry with a passion for transformin
 | Sr. | Domain| No.|
 |----------|----------|----------|
 | 01 | [Data Analysis (Python, SQL, PowerBi)](https://github.com/Duraiprasanth25/bi-dashboards)| 6 |
-| 02 | [OCR / Backend Developement](https://github.com/Duraiprasanth25/Medical-Data-Extractor)| 1 |
+| 02 | [Machine Learning Projects](https://github.com/Duraiprasanth25/Machine_Learning_Projects?tab=readme-ov-file)|2|
+| 03 | [OCR / Backend Developement](https://github.com/Duraiprasanth25/Medical-Data-Extractor)| 1 |
 
 ## My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Duraiprasanth25&show_icons=true&theme=radical)
